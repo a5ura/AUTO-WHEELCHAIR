@@ -1,0 +1,23 @@
+Process Overview : HARDWARE
+
+Step-1: Dismantling the Wheelchair
+Remove unnecessary parts to prepare for motor installation.
+
+Step-2: Dismantling the Hoverboard
+Extract hub motors and other usable components from the hoverboard.
+
+Step-3: Fitting Wheelchair with Hoverboard Motors
+Attach hub motors to the wheelchair for powered mobility.
+
+Step-4: Connecting Motor Controllers to Motors
+Wire motor controllers to the hub motors for operational control.
+
+Step-5: Connecting Arduino to Motor Controllers
+Interface Arduino with motor controllers for signal processing and command execution.
+
+Step-6: Connecting Battery to Motor Controllers
+Power the system by connecting a suitable battery to the motor controllers.
+
+Step-7: Connecting Laptop to Arduino
+Establish a connection between the laptop and Arduino for data transfer and control.
+
