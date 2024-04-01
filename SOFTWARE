@@ -1,0 +1,22 @@
+Process Overview : SOFTWARE
+
+Step-1: Camera Calibration
+Determine camera parameters to ensure accurate vision processing.
+
+Step-2: April Tag Detection
+Implement an algorithm to recognize and track April Tags.
+
+Step-3: April Tag Distance Measurement
+Calculate the distance between the camera and the April Tag for proximity control.
+
+Step-4: April Tag Direction/Position Detection
+Detect the direction and position of the April Tag relative to the camera.
+
+Step-5: Arduino Python Interface
+Develop a communication interface between Python scripts and the Arduino.
+
+Step-6: Initialize Arduino
+Set up the Arduino with the necessary configurations for operation.
+
+Step-7: Sending Data to Arduino from Python
+Transmit control signals from the laptop(python) to Arduino, directing wheelchair movement.
